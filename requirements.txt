@@ -1,0 +1,5 @@
+line-bot-sdk
+flask_sqlalchemy
+flask
+requests
+psycopg2
